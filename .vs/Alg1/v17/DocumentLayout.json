@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\Documents\\C\u002B\u002B\\Alg1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0026BB71-714A-4AA8-A08D-0120988B9914}|Alg1.vcxproj|C:\\Users\\Home\\Documents\\C\u002B\u002B\\Alg1\\Alg1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0026BB71-714A-4AA8-A08D-0120988B9914}|Alg1.vcxproj|solutionrelative:Alg1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alg1.cpp",
+              "DocumentMoniker": "C:\\Users\\Home\\Documents\\C\u002B\u002B\\Alg1\\Alg1.cpp",
+              "RelativeDocumentMoniker": "Alg1.cpp",
+              "ToolTip": "C:\\Users\\Home\\Documents\\C\u002B\u002B\\Alg1\\Alg1.cpp*",
+              "RelativeToolTip": "Alg1.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T17:50:56.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
